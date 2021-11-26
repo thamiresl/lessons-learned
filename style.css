@@ -5,15 +5,12 @@ body {
 #cabecalho {
     background-color: rgb(210, 190, 229);
     position: fixed;
-    margin-top: 0px; 
+    top: 0px; 
     width: 100%;
     height: 80px;
     text-align: center;  
 }
-
-#ttiulo{
        
-}
 
 #minha_foto{
     margin-top: 90px;
