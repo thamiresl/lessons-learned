@@ -19,11 +19,11 @@ body {
     border-radius: 30%;
 }
 
-#licoes{
-    display: block;
+#licoes_aprendidas{
+    margin-top: 100px;
 }
 
-#licoes_aprendidas{
+#licoes_a_aprender{
     margin-top: 100px;
 }
 
