@@ -52,3 +52,10 @@ body {
     text-align: center;
     font-weight: 700;
 }
+.color{
+    color: rgb(163, 105, 218);
+}
+
+.paragraph{
+    font-size: 18px;
+}
