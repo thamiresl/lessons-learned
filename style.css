@@ -10,34 +10,39 @@ body {
     height: 120px;
     text-align: center; 
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: #fff;
 }
        
 #nav{
     text-align: left;
     margin-left: 40px;
+   
+}
+
+a{
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #fff;
+  justify-content: space-around; 
 }
 
 #minha_foto{
     margin-top: 120px;
-    margin-left: 40px;
+    margin-left: 30px;
     width: 150px;
     border-radius: 30%;
 }
 
-#Lições{
+section{
+    background-color: rgb(210, 190, 229);
+    margin-left: 80px;
     display: inline-block;
-}
-
-#licoes_aprendidas{
-    margin-top: 80px;
-}
-
-#licoes_a_aprender{
-    margin-top: 100px;
+    width: 35%;
+    
 }
 
 #rodape{
-    margin-top: 190px;
+    margin-top: 150px;
     text-align: center;
 }
 .button{
@@ -58,4 +63,9 @@ body {
 
 .paragraph{
     font-size: 18px;
+}
+
+img, aside{
+    display: inline-block;
+    width: 76%;
 }
