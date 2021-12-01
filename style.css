@@ -29,13 +29,13 @@ a{
 #minha_foto{
     margin-top: 120px;
     margin-left: 30px;
-    width: 150px;
+    width: 180px;
     border-radius: 30%;
 }
 
 section{
     background-color: rgb(210, 190, 229);
-    margin-left: 80px;
+    margin-left: 100px;
     display: inline-block;
     width: 35%;
     
@@ -44,19 +44,21 @@ section{
 #rodape{
     margin-top: 150px;
     text-align: center;
+    height: 80px;
+    background:rgb(210, 190, 229);
 }
 .button{
     text-decoration: none;
-    margin-left: 400px;
+    margin-left: 48%;
     line-height: 10px;
     padding: 15px;
-    background:rgb(210, 190, 229);
+    background:rgb(83, 46, 117);
     border-radius: 4px;
     display: block;
     width: 80px;
     text-align: center;
     font-weight: 700;
-    position: absolute;
+    position: relative;
 }
 .color{
     color: rgb(163, 105, 218);
@@ -66,7 +68,19 @@ section{
     font-size: 18px;
 }
 
-img, aside{
+img, aside, article{
     display: inline-block;
-    width: 76%;
+    width: 30%;
+}
+aside{
+    margin-left: 100px;
+}
+article{
+    margin-left: 130px;
+}
+table{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 100px;
+    font-size: 18px;
 }
